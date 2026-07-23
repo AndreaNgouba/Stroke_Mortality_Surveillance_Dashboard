@@ -32,7 +32,8 @@ Methods:
 5. Calculated state-level averages and identified high-risk counties.
 6. Developed an interactive Power BI dashboard to visualize geographic distribution and state burden.
 
-Dashboard features: 
+## Dashboard preview
+! [Stroke_mortality_surveillance_dashboard_scsht](scsht.png)
 - Filled map of coverage stroke mortality rates by states 
 - KPI cards summarizing key metrics 
 - Top 10 states by average stroke mortality rate
