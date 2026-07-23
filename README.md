@@ -34,7 +34,7 @@ Methods:
 
 Dashboard features: 
 ## Dashboard Preview
-!(Stroke_Mortality_Surveillance_Dashboard)(dashboard.png)
+![Stroke_Mortality_Surveillance_Dashboard](dashboard.png)
 - Filled map of coverage stroke mortality rates by states 
 - KPI cards summarizing key metrics 
 - Top 10 states by average stroke mortality rate
