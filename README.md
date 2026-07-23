@@ -61,8 +61,10 @@ Future improvements:
 - Expand the dashboard with additional interactive filtering and trend analyses.
 
 
+
 Author:
 Piero Andrea Ketura Ngouba Madinda 
+
 Master of Science in Biohazard Threats & Emerging Infectious Diseases
 Interest areas: Public Health Data Analytics, Epidemiology, Global Health, and Disease Surveillance. 
 
